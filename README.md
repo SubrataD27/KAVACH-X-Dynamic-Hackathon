@@ -103,4 +103,10 @@ npm run dev
 - **Data Streaming:** MQTT, AWS IoT Core
 - **Database & Cloud:** Firebase, AWS S3, Google Cloud
 - **Blockchain (Optional):** Secure logging of safety events
+  
+## 🔄Works left
+1. **🚧 In Progress:** DL model implementation for hazard detection  
+2. **🚧 In Progress:** IoT sensor integration with edge devices  
+3. **🚧 Pending:** Final model integration & real-world testing  
+
 
